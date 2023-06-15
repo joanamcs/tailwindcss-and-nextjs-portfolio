@@ -15,6 +15,14 @@ type Projects = {
 
 const projects: Array<Projects> = [
   {
+    id: 'job-reply-bot',
+    name: "AI-Powered Job Offer Reply Assistant.",
+    description:
+      "With just a few clicks, you can effortlessly handle incoming job offers and craft professional, personalized responses that leave a lasting impression.",
+    image: "/job-reply-bot.png",
+    link: "https://job-reply-bot.vercel.app/",
+  },
+  {
     id: 'wtx',
     name: "WTX",
     description:
