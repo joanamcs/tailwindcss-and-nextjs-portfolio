@@ -2,7 +2,7 @@
 
 Check it out here -> https://joanasantos.vercel.app/
 
-![Capture-2023-06-05-121606](https://github.com/joanamcs/tailwindcss-and-nextjs-portfolio/assets/97113028/fd47925c-26f0-4087-bcac-808003bb8c49)
+![Capture-2023-06-05-121606](https://github.com/joanamcsa/tailwindcss-and-nextjs-portfolio/assets/97113028/fd47925c-26f0-4087-bcac-808003bb8c49)
 
 
 ## Tailwind CSS and Next.js Portfolio
