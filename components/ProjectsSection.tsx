@@ -15,6 +15,14 @@ type Projects = {
 
 const projects: Array<Projects> = [
   {
+    id: 'shadcn-ui-theme-explorer',
+    name: "shadcn/ui Theme Explorer",
+    description:
+      "An open-source project to explore themes that allow us to color the web with beautifully designed themes.",
+    image: "/shadcn-ui-theme-explorer.png",
+    link: "https://shadcn-ui-theme-explorer.vercel.app",
+  },
+  {
     id: 'job-reply-bot',
     name: "AI-Powered Job Offer Reply Assistant.",
     description:
